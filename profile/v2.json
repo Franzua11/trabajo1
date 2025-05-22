@@ -1,11 +1,11 @@
 {
     "version":2,
     "personalInfo":{
-        "fullName": "John Doe",
-        "age": 21,
+        "fullName": "Fernando Salles",
+        "age": 20,
         "contact": {
-            "email": "john.doe@example.com",
-            "phone": "+51 999 999 999"
+            "email": "sallesmezafernando123@gmail.com",
+            "phone": "+51 935054008"
         },
         "location": {
             "city": "Lima",
@@ -13,9 +13,9 @@
         }
     },
     "education": {
-        "university": " National University of Tech"    ,
+        "university": " UCH"    ,
         "degree": "Computer Engineering",
-        "year": 3
+        "year": 2
     },
     "skills": {
         "lenguages": ["Java","SQL", "Javascript"],
