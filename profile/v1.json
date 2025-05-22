@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "name" : "Fernando Salles",
+    "age": 20,
+    "email": "sallesmezafernando123@gmail.com",
+    "university" : "UCH",
+   "programmingLenguages": ["Java", "SQL"],
+   "availableForInternship": true 
+} 

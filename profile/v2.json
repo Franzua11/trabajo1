@@ -1,0 +1,35 @@
+{
+    "version":2,
+    "personalInfo":{
+        "fullName": "John Doe",
+        "age": 21,
+        "contact": {
+            "email": "john.doe@example.com",
+            "phone": "+51 999 999 999"
+        },
+        "location": {
+            "city": "Lima",
+            "country" : "Peru"
+        }
+    },
+    "education": {
+        "university": " National University of Tech"    ,
+        "degree": "Computer Engineering",
+        "year": 3
+    },
+    "skills": {
+        "lenguages": ["Java","SQL", "Javascript"],
+        "databases" : ["PostgreSQL", "MongoDB"],
+        "tools": ["Git", "VS code"] 
+    },
+    "experience": [
+        {
+            "title": "Web Development Intern",
+            "company": "Tech Start",
+            "duration": "2 months",
+            "technologies": ["HTML", " CSS", "JavaScript"]
+        }
+    ],
+    "interests": ["Back-end Development", "APIs", "Problem Solving"],
+    "availableForInternship": true
+}
